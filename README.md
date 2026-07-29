@@ -1,4 +1,4 @@
-# Inventory Management (Inventory11)
+# Inventory Management
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.2.10-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
