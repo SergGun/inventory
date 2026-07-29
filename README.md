@@ -11,6 +11,11 @@ A simple inventory management web application built with Next.js (App Router), P
 
 ---
 
+## Live Preview
+
+Check out the live version of the project here:  
+👉 [Inventory Deployed App](https://inventory-sandy-omega.vercel.app/)
+
 # Features 🚀
 
 - User authentication and account management via @stackframe/stack (SignIn, UserButton, AccountSettings).
