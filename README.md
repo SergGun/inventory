@@ -48,8 +48,6 @@ This is a Next.js App Router application with server and client components:
 
 # Screenshots 📸
 
-Add screenshots here (replace placeholders with real images):
-
 ![Dashboard](/docs/screenshots/dashboard.png)
 ![Inventory](/docs/screenshots/inventory.png)
 
@@ -59,7 +57,7 @@ Add screenshots here (replace placeholders with real images):
 
 ```bash
 git clone <repo-url>
-cd Inventory11
+cd Inventory
 ```
 
 2. Install dependencies:
@@ -195,8 +193,6 @@ app/generated/prisma/ (generated Prisma client)
 
 # License 📜
 
-This project does not include a license file. Add a license (for example MIT) if you intend to publish or share it publicly.
+This project does not include a license file.
 
 ---
-
-If you want, I can also generate sample screenshots, add a Dockerfile, or create deployment instructions for Vercel/Heroku. Which would you like next?
