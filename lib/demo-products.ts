@@ -1,4 +1,4 @@
-import { Prisma } from '@/app/generated/prisma/client';
+import { Prisma } from '@/prisma/generated/client';
 import { prisma } from '@/lib/prisma';
 
 export async function createDemoProducts(userId: string) {

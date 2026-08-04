@@ -8,8 +8,10 @@ export default function Home() {
           Inventory Management
         </h1>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-          Manage your inventory with ease.
-          Keep track of products, monitor stock levels, and organize your inventory in one place.
+          Authentication is handled securely through Google OAuth. Google
+          manages your credentials, and this application never has access to
+          your Google password. Alternatively, you can create an account using
+          any email address.{' '}
         </p>
         <div className="flex gap-4 justify-center">
           <Link

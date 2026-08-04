@@ -11,8 +11,8 @@
 !.yarn/versions
 
 # doc folder
-/requirments
-/docs 
+/requirments/
+
 
 # testing
 /coverage
